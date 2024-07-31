@@ -4,8 +4,8 @@
 The ServiceNow project utilizes the developer version of ServiceNow to gain hands-on experience within a ticketing system.
 
 ### Skills Learned
-- Basic knowledge of ticket creation, resolving tickets, and creating a knowledge article.
-- Leverage prior resolved tickets to enhance technical troubleshooting and problem-solving skills.
+- Ticket Management: Competence in creating and resolving tickets, plus drafting knowledge articles.
+- Issue Analysis: Leverage prior resolved tickets to enhance technical troubleshooting and problem-solving skills.
   
 ### Tools Used
 - [ServiceNow:](https://developer.servicenow.com/dev.do) ServiceNow cloud instance 
